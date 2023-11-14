@@ -42,7 +42,7 @@ const team = [
   {
     name: 'Karan',
     role: 'Communication Manager',
-    desc: 'Aadit is a sophomore at Henrico High School.  He is the reporter for Intramed. Aadit enjoys playing basketball and playing sports. He also is interested in the medical field, where he likes to learn new topics and ideas.',
+    desc: 'Karan is a sophomore at Maggie Walker Governors school and is IntraMeds communications manager. In his spare time, Karan enjoys trying a variety of different foods. He also enjoys participating in robotics.',
   },
   {
     name: 'Rishith',
